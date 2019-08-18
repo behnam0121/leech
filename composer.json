@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "compile": [
+      "chmod -R 777 files/",
+      "chmod -R 777 configs/",
+      "chmod -R 777 rar/"
+    ]
+  }
+}
